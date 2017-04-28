@@ -68,3 +68,8 @@ li a:hover {
   text-align: center;
   color: black;
 }
+
+.btn {
+  background-color: grey;
+  color: white;
+}
