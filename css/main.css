@@ -73,3 +73,29 @@ li a:hover {
   background-color: grey;
   color: white;
 }
+
+.section {
+  overflow: hidden;
+
+  background-color: #e2e2e2;
+}
+
+.photo1 {
+  float: left;
+  width: 50%;
+}
+
+.info1 {
+  float: right;
+  width: 50%;
+}
+
+.photo2 {
+  float: right;
+  width: 50%;
+}
+
+.info2 {
+  float: left;
+  width: 50%;
+}
